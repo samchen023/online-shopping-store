@@ -1,0 +1,22 @@
+.search{
+    --focus-indicator-spacing: 3px;
+    display: flex;
+    align-items: stretch;
+    height: 2.5rem;
+    box-sizing: border-box;
+    padding: .1875rem;
+    border-radius: 2px;
+    background: #fff;
+    margin: 8px;;
+}
+.searchinput{
+    width: 100%;
+}
+.searchinput input{
+    width: 90%;
+    height: 40px;
+}
+.searchbutton{
+
+}
+
