@@ -28,5 +28,6 @@
 }
 .icons{
     margin: 8px;
+    display: flex;
 }
 
